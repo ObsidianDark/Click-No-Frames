@@ -1,0 +1,28 @@
+{
+	"geode": "5.7.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "obsidianmode2.click-no-frames",
+	"name": "Click No Frames",
+	"version": "v1.0.0",
+	"developer": "ObsidianMode2",
+	"description": "Tired of Click between frames? This mod will fix that for you!",
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	},
+	"tags": [
+		"joke"
+	],
+	"settings": {
+		"enabled": {
+			"name": "Enable The Mod",
+			"description": "Enable or disable the mod",
+			"type": "bool",
+			"default": true
+		}
+	}
+}
