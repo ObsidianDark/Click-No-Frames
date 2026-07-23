@@ -6,3 +6,7 @@ Tired of Click between frames? This mod will fix that for you!
 - (on a serious note it just removes clicking)
 
 - Inspired from "Click After Frames" by Alphalaneous
+
+
+## Known Issues
+- The mod works
